@@ -33,7 +33,7 @@ namespace TrueCode
             int i = 1;
             ++i;
             var testArr = GetArr();
-            ListOfSortingAlgs.QuickSort(testArr.Arr, 0, testArr.Length - 1);
+            ListOfSortingAlgs.QuickSort(testArr, 0, testArr.Length - 1);
         }
         [Benchmark]
         public void TestBubbleSort()
@@ -45,7 +45,7 @@ namespace TrueCode
         public void TestSelectionSort()
         {
             var testArr = GetArr();
-            ListOfSortingAlgs.SelectionSortSort(testArr);
+            ListOfSortingAlgs.SelectionSort(testArr);
         }
         [Benchmark]
         public void TestCountingSort()

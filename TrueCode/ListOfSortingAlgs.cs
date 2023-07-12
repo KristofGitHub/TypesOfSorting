@@ -15,7 +15,7 @@ namespace TrueCode
             leftValue = rightValue;
             rightValue = temp;
         } // Конец метода Swap ///////////////////////////////////////////////////////////////////////////////////////////////////////////
-        static void QuickSort(int[] inputArray, int minIndex, int maxIndex)
+        public static void QuickSort(int[] inputArray, int minIndex, int maxIndex)
         {
             static int GetPivotIndex(int[] inputArray, int minIndex, int maxIndex)
             {
@@ -53,9 +53,9 @@ namespace TrueCode
         } // Конец метода BubbleSort (Пузырьковой сортировки) ///////////////////////////////////////////////////////////////////////////
         public static void SelectionSort(int[] inputArray)
         {
-            int min = i;
             for (int i = 0; i < inputArray.Length - 1; i++)
             {
+                int min = i;
                 for (int j = i + 1; j < inputArray.Length; j++)
                 {
                     if (inputArray[j] < inputArray[min])
