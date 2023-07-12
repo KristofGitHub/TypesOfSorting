@@ -1,0 +1,15 @@
+D:\03 - Развлечения\04 - Программирование\02 - GeekBrains\12 - Буткемп ПРОГРАММИРОВАНИЕ\занятие_9\TrueCode\bin\Debug\net7.0\TrueCode.exe
+D:\03 - Развлечения\04 - Программирование\02 - GeekBrains\12 - Буткемп ПРОГРАММИРОВАНИЕ\занятие_9\TrueCode\bin\Debug\net7.0\TrueCode.deps.json
+D:\03 - Развлечения\04 - Программирование\02 - GeekBrains\12 - Буткемп ПРОГРАММИРОВАНИЕ\занятие_9\TrueCode\bin\Debug\net7.0\TrueCode.runtimeconfig.json
+D:\03 - Развлечения\04 - Программирование\02 - GeekBrains\12 - Буткемп ПРОГРАММИРОВАНИЕ\занятие_9\TrueCode\bin\Debug\net7.0\TrueCode.dll
+D:\03 - Развлечения\04 - Программирование\02 - GeekBrains\12 - Буткемп ПРОГРАММИРОВАНИЕ\занятие_9\TrueCode\bin\Debug\net7.0\TrueCode.pdb
+D:\03 - Развлечения\04 - Программирование\02 - GeekBrains\12 - Буткемп ПРОГРАММИРОВАНИЕ\занятие_9\TrueCode\obj\Debug\net7.0\TrueCode.csproj.AssemblyReference.cache
+D:\03 - Развлечения\04 - Программирование\02 - GeekBrains\12 - Буткемп ПРОГРАММИРОВАНИЕ\занятие_9\TrueCode\obj\Debug\net7.0\TrueCode.GeneratedMSBuildEditorConfig.editorconfig
+D:\03 - Развлечения\04 - Программирование\02 - GeekBrains\12 - Буткемп ПРОГРАММИРОВАНИЕ\занятие_9\TrueCode\obj\Debug\net7.0\TrueCode.AssemblyInfoInputs.cache
+D:\03 - Развлечения\04 - Программирование\02 - GeekBrains\12 - Буткемп ПРОГРАММИРОВАНИЕ\занятие_9\TrueCode\obj\Debug\net7.0\TrueCode.AssemblyInfo.cs
+D:\03 - Развлечения\04 - Программирование\02 - GeekBrains\12 - Буткемп ПРОГРАММИРОВАНИЕ\занятие_9\TrueCode\obj\Debug\net7.0\TrueCode.csproj.CoreCompileInputs.cache
+D:\03 - Развлечения\04 - Программирование\02 - GeekBrains\12 - Буткемп ПРОГРАММИРОВАНИЕ\занятие_9\TrueCode\obj\Debug\net7.0\TrueCode.dll
+D:\03 - Развлечения\04 - Программирование\02 - GeekBrains\12 - Буткемп ПРОГРАММИРОВАНИЕ\занятие_9\TrueCode\obj\Debug\net7.0\refint\TrueCode.dll
+D:\03 - Развлечения\04 - Программирование\02 - GeekBrains\12 - Буткемп ПРОГРАММИРОВАНИЕ\занятие_9\TrueCode\obj\Debug\net7.0\TrueCode.pdb
+D:\03 - Развлечения\04 - Программирование\02 - GeekBrains\12 - Буткемп ПРОГРАММИРОВАНИЕ\занятие_9\TrueCode\obj\Debug\net7.0\TrueCode.genruntimeconfig.cache
+D:\03 - Развлечения\04 - Программирование\02 - GeekBrains\12 - Буткемп ПРОГРАММИРОВАНИЕ\занятие_9\TrueCode\obj\Debug\net7.0\ref\TrueCode.dll
