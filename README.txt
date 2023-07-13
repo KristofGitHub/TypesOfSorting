@@ -16,3 +16,15 @@
 занятие_9/TrueCode/bin/Release/net7.0, нажимаем файл TrueCode.exe, все запустится, 
 отработают все тесты и даже выведутся все результаты на секундну и программа закончится. Рассмотреть ничего не успеем. 
 Нужна пауза в самом конце проги.
+
+Для этого в метода Main добавим две строки:
+
+static void Main(string[] args)
+        {
+            BenchmarkRunner.Run<ListOfSortingBenchmark>();
+            Console.WriteLine("Для завершения программы нажмите 0.");
+            int stopCode = 1;
+            while (stopCode == 1 ){stopCode = Convert.ToInt32(Console.Read());}
+        }
+
+6) Еще раз dotnet build --configuration Release и снова запускаем файл. Все работает, проверил.
