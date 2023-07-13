@@ -8,6 +8,9 @@ namespace TrueCode
         static void Main(string[] args)
         {
             BenchmarkRunner.Run<ListOfSortingBenchmark>();
+            Console.WriteLine("Для завершения программы нажмите 0.");
+            int stopCode = 1;
+            while (stopCode == 1 ){stopCode = Convert.ToInt32(Console.Read());}
         }
     }
     
